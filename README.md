@@ -1,8 +1,6 @@
 ofxCreditCardSwiper
 ============
 
-*NOTE*: NOT CURRENTLY SET UP IN TRADITIONAL ADDON FORMAT
-
 
 This interfaces with a standard credit card swiper (we used this one - [http://www.newegg.com/Product/Product.aspx?Item=20-286-001](http://www.newegg.com/Product/Product.aspx?Item=20-286-001) )
 

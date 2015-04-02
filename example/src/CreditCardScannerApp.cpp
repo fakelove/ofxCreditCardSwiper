@@ -19,6 +19,8 @@ void CreditCardScannerApp::setup()
 {
 
     mToggleDebugBtn = ofRectangle( kLeftMargin, kTopMargin, kBtnSize.x, kBtnSize.y );
+    ccScan.setup();
+    ccScan.enableDebugMode();
 }
 
 void CreditCardScannerApp::update(){
